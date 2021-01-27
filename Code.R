@@ -1,5 +1,4 @@
-#Try shits and things like that hehe
-
+#Try outs
 a <- rnorm(1000)
 
 plot(a)
